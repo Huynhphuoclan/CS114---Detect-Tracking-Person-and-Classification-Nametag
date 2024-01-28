@@ -9,9 +9,6 @@
 <p>Mr. Lê Đình Duy</p>
 <P>Mr. Phạm Nguyễn Trường An</P>
 
-<strong>Link Demo on Youtube</strong>
-<a href='https://www.youtube.com/watch?v=z5tckBwx378'>Demo</a>
-
 <strong>Details</strong>
 <p>- Thư mục Final: dùng để thực thi chương trình, được set up trên visual code:</p> 
 <p>+ FINAL_MAIN_classify+detect.py: là file chính, để chạy chương trình</p>
@@ -25,3 +22,6 @@
 <p>- Thư mục Train model: </p>
 <p>+ TransferLearning.ipynb: thực hiện ở google colab, đùng để train model classification</p>
 <p>+ 28.1.model_ft-VER6.pt: chứa model ResNet18 dùng để thực hiện nhiệm vụ classification</p>
+
+<strong>Link Demo on Youtube</strong>
+<a href='https://www.youtube.com/watch?v=z5tckBwx378'>Demo</a>
